@@ -16,7 +16,7 @@ const Recipe = ({ recipe,handleWantToCook }) => {
       <img src={recipe_img} alt="images" className="mx-auto" />
       <h3 className="text-xl font-semibold mt-4">{name}</h3>
       <p className="mt-3 text-base sm-color border-b-2 border-dashed pb-3">
-        {description.slice(0, 65)}
+        {description.slice(0, 63)}
       </p>
       <h4 className="text-lg font-medium mt-3">
         Ingredients: {ingredients.length}

@@ -2,14 +2,14 @@
     {
       "recipe_img": "https://i.ibb.co/YTDbfHg/Rectangle-20170.jpg",
       "id": "1",
-      "name": "Savory Stuffed Bell Peppers",
+      "name": "Spicy Noodles with  Pasta and Mint",
       "description": "A hearty and satisfying dish filled with seasoned ground beef and rice.",
       "ingredients": ["4 large bell peppers", "1 lb ground beef", "1 cup cooked rice", "1 onion, diced", "2 cloves garlic, minced", "1 cup tomato sauce", "1 teaspoon dried oregano", "1/2 teaspoon paprika", "Salt and pepper to taste"],
       "preparing_time": 60,
       "calories": 350
     },
     {
-      "recipe_img": "https://i.ibb.co/q7jt493/Rectangle-20170-1.jpg",
+      "recipe_img": "https://i.ibb.co/ynykgrx/download.jpg",
       "id": "2",
       "name": "Creamy Mushroom Risotto",
       "description": "Indulge in the rich and creamy flavors of this classic Italian dish.",
@@ -18,16 +18,16 @@
       "calories": 320
     },
     {
-      "recipe_img": "https://i.ibb.co/q7jt493/Rectangle-20170-1.jpg",
+      "recipe_img": "https://i.ibb.co/nQQmy2j/Hyderabadi-Dum-Biryani.jpg",
       "id": "3",
-      "name": "Honey Garlic Glazed Salmon",
+      "name": "Hot Hyderabadi-Dum-Biryani",
       "description": "A delightful combination of sweet and savory flavors, this succulent salmon dish is glazed.",
       "ingredients": ["4 salmon fillets", "1/4 cup honey", "2 tablespoons soy sauce", "3 cloves garlic, minced", "1 tablespoon olive oil", "1 teaspoon grated ginger", "1 tablespoon chopped fresh parsley", "Salt and pepper to taste"],
       "preparing_time": 30,
       "calories": 280
     },
     {
-      "recipe_img": "https://i.ibb.co/YTDbfHg/Rectangle-20170.jpg",
+      "recipe_img": "https://i.ibb.co/q7jt493/Rectangle-20170-1.jpg",
       "id": "4",
       "name": "Salad with Balsamic Glaze",
       "description": "Enjoy the simplicity of fresh ingredients in this classic Italian salad, featuring ripe tomatoes.",
@@ -36,16 +36,16 @@
       "calories": 220
     },
     {
-      "recipe_img": "https://i.ibb.co/YTDbfHg/Rectangle-20170.jpg",
+      "recipe_img": "https://i.ibb.co/HDmxVWX/Southern-Living-Best-Carrot-Cake018-fb-4878098ba8de45b3b734723fdf356f3c.jpg",
       "id": "5",
-      "name": "Spicy Chicken Pad Thai",
+      "name": "Special Dessert",
       "description": "Experience the bold flavors of Thai cuisine with this fiery and aromatic stir-fried noodle dish.",
       "ingredients": ["8 oz rice noodles", "2 chicken breasts, thinly sliced", "2 eggs, beaten", "1 cup bean sprouts", "1/2 cup chopped peanuts", "1 red bell pepper, sliced", "1 carrot, julienned", "3 cloves garlic, minced", "3 green onions, sliced", "2 tablespoons soy sauce", "1 tablespoon fish sauce", "1 tablespoon brown sugar", "1 tablespoon Sriracha sauce", "1 lime, juiced", "2 tablespoons vegetable oil"],
       "preparing_time": 35,
       "calories": 380
     },
     {
-      "recipe_img": "https://i.ibb.co/q7jt493/Rectangle-20170-1.jpg",
+      "recipe_img": "https://i.ibb.co/yyZB5qq/Easy-Bean-Salad-Recipe-Video.jpg",
       "id": "6",
       "name": "Mouthwatering Salad",
       "description": "Indulge your sweet tooth with this decadent dessert that oozes with warm, gooey chocolate from the center.",
@@ -54,9 +54,9 @@
       "calories": 420
     },
     {
-      "recipe_img": "https://i.ibb.co/YTDbfHg/Rectangle-20170.jpg",
+      "recipe_img": "https://i.ibb.co/NtWcjnG/house-special-fried-rice-on-a-plate-thumbnail-480x270.jpg",
       "id": "7",
-      "name": "Vegetarian Quinoa Stuffed Peppers",
+      "name": "Chicken Biryani with Garlic sauce",
       "description": "A nutritious and flavorful option for vegetarians and veggie lovers, these colorful peppers are filled.",
       "ingredients": ["4 large bell peppers", "1 cup cooked quinoa", "1 can black beans, drained and rinsed", "1 cup corn kernels", "1/2 cup diced tomatoes", "1/2 cup shredded cheddar cheese", "1 teaspoon chili powder", "1/2 teaspoon cumin", "1/4 teaspoon smoked paprika", "Salt and pepper to taste"],
       "preparing_time": 50,
