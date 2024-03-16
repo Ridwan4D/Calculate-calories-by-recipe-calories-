@@ -8,6 +8,7 @@ import toast, { Toaster } from "react-hot-toast";
 
 function App() {
   const [cart, setSendItem] = useState([]);
+  const [reSendCart, setReSendCart] = useState([]);
   const handleWantToCook = (item) => {
     // console.log(item);
     const isExist = cart.find((findItem) => findItem.id == item.id);
@@ -18,9 +19,15 @@ function App() {
     }
   };
 
-  const handlePreparing = (id) => {
-    const newSendItem = cart.filter((item) => item.id != id);
+  const handlePreparing = (item) => {
+    const newSendItem = cart.filter((filterItem) => filterItem.id != item.id);
     setSendItem(newSendItem);
+    const isExist = cart.find((findItem) => findItem.id == item.id);
+    if (isExist) {
+      setReSendCart([...reSendCart, item]);
+    } else {
+      toast("Already Exist");
+    }
   };
 
   return (
@@ -43,7 +50,7 @@ function App() {
           </p>
         </div>
         <div className="md:flex md:flex-row-reverse  gap-5 space-y-5">
-          <Cooking handlePreparing={handlePreparing} sendItem={cart}></Cooking>
+          <Cooking handlePreparing={handlePreparing} sendItem={cart} reSendCart={reSendCart}></Cooking>
           <Recipes handleWantToCook={handleWantToCook}></Recipes>
         </div>
       </div>
