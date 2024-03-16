@@ -1,0 +1,66 @@
+[
+    {
+      "recipe_img": "https://i.ibb.co/ThXm0pD/Rectangle-20170-1.png",
+      "id": "1",
+      "name": "Savory Stuffed Bell Peppers",
+      "short_description": "A hearty and satisfying dish filled with seasoned ground beef and rice, baked to perfection in vibrant bell peppers.",
+      "ingredients": ["4 large bell peppers", "1 lb ground beef", "1 cup cooked rice", "1 onion, diced", "2 cloves garlic, minced", "1 cup tomato sauce", "1 teaspoon dried oregano", "1/2 teaspoon paprika", "Salt and pepper to taste"],
+      "preparing_time": "60 minutes",
+      "calories": 350
+    },
+    {
+      "recipe_img": "https://i.ibb.co/WKR9JPx/Rectangle-20170.png",
+      "id": "2",
+      "name": "Creamy Mushroom Risotto",
+      "short_description": "Indulge in the rich and creamy flavors of this classic Italian dish, featuring tender Arborio rice cooked with earthy mushrooms and Parmesan cheese.",
+      "ingredients": ["1 cup Arborio rice", "4 cups chicken or vegetable broth", "1/2 cup dry white wine", "2 cups sliced mushrooms", "1 onion, finely chopped", "2 cloves garlic, minced", "1/4 cup grated Parmesan cheese", "2 tablespoons butter", "2 tablespoons olive oil", "Salt and pepper to taste"],
+      "preparing_time": "45 minutes",
+      "calories": 320
+    },
+    {
+      "recipe_img": "https://i.ibb.co/ThXm0pD/Rectangle-20170-1.png",
+      "id": "3",
+      "name": "Honey Garlic Glazed Salmon",
+      "short_description": "A delightful combination of sweet and savory flavors, this succulent salmon dish is glazed with a honey garlic sauce that's sure to impress.",
+      "ingredients": ["4 salmon fillets", "1/4 cup honey", "2 tablespoons soy sauce", "3 cloves garlic, minced", "1 tablespoon olive oil", "1 teaspoon grated ginger", "1 tablespoon chopped fresh parsley", "Salt and pepper to taste"],
+      "preparing_time": "30 minutes",
+      "calories": 280
+    },
+    {
+      "recipe_img": "https://i.ibb.co/WKR9JPx/Rectangle-20170.png",
+      "id": "4",
+      "name": "Caprese Salad with Balsamic Glaze",
+      "short_description": "Enjoy the simplicity of fresh ingredients in this classic Italian salad, featuring ripe tomatoes, creamy mozzarella, and fragrant basil drizzled with a tangy balsamic reduction.",
+      "ingredients": ["4 large ripe tomatoes", "1 ball fresh mozzarella cheese", "1/4 cup fresh basil leaves", "2 tablespoons balsamic glaze", "2 tablespoons extra virgin olive oil", "Salt and pepper to taste"],
+      "preparing_time": "15 minutes",
+      "calories": 220
+    },
+    {
+      "recipe_img": "https://i.ibb.co/ThXm0pD/Rectangle-20170-1.png",
+      "id": "5",
+      "name": "Spicy Chicken Pad Thai",
+      "short_description": "Experience the bold flavors of Thai cuisine with this fiery and aromatic stir-fried noodle dish, packed with tender chicken, crunchy peanuts, and vibrant veggies.",
+      "ingredients": ["8 oz rice noodles", "2 chicken breasts, thinly sliced", "2 eggs, beaten", "1 cup bean sprouts", "1/2 cup chopped peanuts", "1 red bell pepper, sliced", "1 carrot, julienned", "3 cloves garlic, minced", "3 green onions, sliced", "2 tablespoons soy sauce", "1 tablespoon fish sauce", "1 tablespoon brown sugar", "1 tablespoon Sriracha sauce", "1 lime, juiced", "2 tablespoons vegetable oil"],
+      "preparing_time": "35 minutes",
+      "calories": 380
+    },
+    {
+      "recipe_img": "https://i.ibb.co/WKR9JPx/Rectangle-20170.png",
+      "id": "6",
+      "name": "Mouthwatering Chocolate Lava Cake",
+      "short_description": "Indulge your sweet tooth with this decadent dessert that oozes with warm, gooey chocolate from the center, paired perfectly with a scoop of vanilla ice cream.",
+      "ingredients": ["1/2 cup unsalted butter", "4 oz semisweet chocolate, chopped", "1 cup powdered sugar", "2 eggs", "2 egg yolks", "1 teaspoon vanilla extract", "1/4 cup all-purpose flour", "Vanilla ice cream for serving"],
+      "preparing_time": "25 minutes",
+      "calories": 420
+    },
+    {
+      "recipe_img": "https://i.ibb.co/ThXm0pD/Rectangle-20170-1.png",
+      "id": "7",
+      "name": "Vegetarian Quinoa Stuffed Peppers",
+      "short_description": "A nutritious and flavorful option for vegetarians and veggie lovers, these colorful peppers are filled with protein-rich quinoa, black beans, and Mexican spices.",
+      "ingredients": ["4 large bell peppers", "1 cup cooked quinoa", "1 can black beans, drained and rinsed", "1 cup corn kernels", "1/2 cup diced tomatoes", "1/2 cup shredded cheddar cheese", "1 teaspoon chili powder", "1/2 teaspoon cumin", "1/4 teaspoon smoked paprika", "Salt and pepper to taste"],
+      "preparing_time": "50 minutes",
+      "calories": 300
+    }
+  ]
+  
