@@ -64,7 +64,7 @@ const Navbar = () => {
             </ul>
           </div>
         </div>
-        <div className="md:navbar-end md:space-x-3 flex items-center justify-center md:w-4/12">
+        <div className="md:navbar-end md:space-x-3 flex items-center justify-center  md:w-4/12">
           <label className="input input-bordered flex items-center gap-2 w-8/12 h-[40px] md:w-2/4 md:h-[50px] mr-2">
             <i className="fa-solid fa-magnifying-glass"></i>
             <input type="text" className="grow" placeholder="Search" />

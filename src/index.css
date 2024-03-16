@@ -16,3 +16,11 @@ body{
 .sm-color{
   color: #878787;
 }
+
+
+.bg_div {
+  background-image: url('../src/banner-bg.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position:top;
+}
