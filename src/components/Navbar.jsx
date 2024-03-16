@@ -43,7 +43,7 @@ const Navbar = () => {
                 </li>
               </ul>
             </div>
-            <a className="btn btn-ghost text-xl md:text-3xl font-bold">
+            <a className="btn btn-ghost text-2xl md:text-3xl font-bold">
               Recipe Calories
             </a>
           </div>
