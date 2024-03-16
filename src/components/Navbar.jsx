@@ -25,51 +25,58 @@ const Navbar = () => {
               className="menu menu-sm dropdown-content mt-3 z-[1] p-2 shadow bg-base-100 rounded-box w-52"
             >
               <li>
-                <a>Item 1</a>
+                <a href="#">Home</a>
               </li>
               <li>
-                <a>Parent</a>
-                <ul className="p-2">
-                  <li>
-                    <a>Submenu 1</a>
-                  </li>
-                  <li>
-                    <a>Submenu 2</a>
-                  </li>
-                </ul>
+                <a href="#">Recipes</a>
               </li>
               <li>
-                <a>Item 3</a>
+                <a href="#">About</a>
+              </li>
+              <li>
+                <a href="#">Search</a>
               </li>
             </ul>
           </div>
-          <a className="btn btn-ghost text-3xl font-bold">Recipe Calories</a>
+          <a className="btn btn-ghost text-xl md:text-3xl font-bold">
+            Recipe Calories
+          </a>
         </div>
         <div className="navbar-center hidden lg:flex">
-          <ul className="menu menu-horizontal px-1">
+          <ul className="menu menu-horizontal px-1 text-base text-[#150B2BB3]">
             <li>
-              <a>Item 1</a>
+              <a href="#">Home</a>
             </li>
             <li>
-              <details>
-                <summary>Parent</summary>
-                <ul className="p-2">
-                  <li>
-                    <a>Submenu 1</a>
-                  </li>
-                  <li>
-                    <a>Submenu 2</a>
-                  </li>
-                </ul>
-              </details>
+              <a href="#">Recipes</a>
             </li>
             <li>
-              <a>Item 3</a>
+              <a href="#">About</a>
+            </li>
+            <li>
+              <a href="#">Search</a>
             </li>
           </ul>
         </div>
-        <div className="navbar-end">
-          <a className="btn">Button</a>
+        <div className="md:navbar-end space-x-2 md:space-x-3 absolute top-12 md:relative md:top-0">
+          <label className="input input-bordered flex items-center gap-2">
+            <svg
+              xmlns="http://www.w3.org/2000/svg"
+              viewBox="0 0 16 16"
+              fill="currentColor"
+              className="w-4 h-4 opacity-70"
+            >
+              <path
+                fillRule="evenodd"
+                d="M9.965 11.026a5 5 0 1 1 1.06-1.06l2.755 2.754a.75.75 0 1 1-1.06 1.06l-2.755-2.754ZM10.5 7a3.5 3.5 0 1 1-7 0 3.5 3.5 0 0 1 7 0Z"
+                clipRule="evenodd"
+              />
+            </svg>
+            <input type="text" className="grow" placeholder="Search" />
+          </label>
+          <a className="btn h-12 w-12 rounded-full btn-bg">
+            <i className="fa-solid fa-user-plus btn-text border-2 border-[#150B2B] rounded-full p-1"></i>
+          </a>
         </div>
       </div>
     </div>

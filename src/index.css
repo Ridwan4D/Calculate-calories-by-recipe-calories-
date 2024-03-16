@@ -6,3 +6,10 @@
 body{
   font-family: "Lexend", sans-serif;
 }
+
+.btn-bg{
+  background-color: #0BE58A;
+}
+.btn-text{
+  color: #150B2B;
+}
