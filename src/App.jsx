@@ -30,6 +30,7 @@ function App() {
       setReSendCart([...reSendCart, item]);
     }
     setTime(time + item.preparing_time)
+    setCalories(calories + item.calories)
   };
 
   return (
@@ -57,6 +58,7 @@ function App() {
             sendItem={cart}
             reSendCart={reSendCart}
             time={time}
+            calories={calories}
           ></Cooking>
           <Recipes handleWantToCook={handleWantToCook}></Recipes>
         </div>
